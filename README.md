@@ -34,7 +34,7 @@ Contributions are welcome! Feel free to open issues or pull requests to suggest 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sinanptm/ecommerse-project.git
+   git clone https://github.com/suptechie/ecommerse-project.git
 Install dependencies:
 npm install
 
